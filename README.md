@@ -4,15 +4,10 @@
 
 1. 网盘链接：`https://pan.baidu.com/s/1pIx0xADsSVFWm2Y94F8O-g?pwd=b9xd` 提取码：`b9xd`，下载并解压到任意地方
 2. 右击桌面上的微信图标，选择打开文件所在位置，如果没有的话就先点击显示更多选项，再点击打开文件所在位置
-![img.png](img.png)
 3. 右击WeChat.exe，点击复制文件地址
-![img_1.png](img_1.png)
 4. 进入解压后的文件夹，双击MultiWXTool.exe
 5. 直接ctrl+v把复制好的路径粘贴进去再回车
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
 6. 输入想多开的微信的个数，最后回车即可
-![img_4.png](img_4.png)
 
 ## 其他说明
 
